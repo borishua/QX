@@ -1,2 +1,2 @@
 # QuantumultX
-For Quantumult X
+重新规则自用整合调整
