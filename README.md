@@ -1,2 +1,2 @@
-# Only use for private
-For Quantumult X
+Only use for private
+For QX
