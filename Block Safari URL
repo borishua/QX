@@ -1,0 +1,35 @@
+# 分流规则
+# 屏蔽各类跳转
+
+# 屏蔽Safari跳转
+host-suffix, oia.zhihu.com/answers, reject
+host-suffix, tieba.baidu.com/mo/q/activitydiversion/download?fr=bpushfrsappguideopenapp, reject
+host-suffix, mbd.baidu.com/ma/tips?, reject
+host-suffix, boxer.baidu.com, reject
+
+# 其他
+#host-suffix, tcbox.baidu.com, reject
+#host-suffix, minipro.baidu.com, reject
+#host-suffix, mbd.baidu.com, reject
+#host-suffix, novelapi.baidu.com, reject
+#host-suffix, afdconf.baidu.com, reject
+#host-suffix, hmma.baidu.com, reject
+#host-suffix, bgg.baidu.com, reject
+#host-suffix, baidu.com/sugrec?, reject
+#host-suffix, hectorstatic.baidu.com, reject
+#host-suffix, baidu.com/tcbox?, reject
+#host, oia.zhihu.com/answers, reject
+#host, tieba.baidu.com/mo/q/activitydiversion/download?fr=bpushfrsappguideopenapp, reject
+#host, mbd.baidu.com/ma/tips?, reject
+#host, boxer.baidu.com, reject
+#host, tcbox.baidu.com, reject
+#host, minipro.baidu.com, reject
+#host, mbd.baidu.com, reject
+#host, novelapi.baidu.com, reject
+#host, afdconf.baidu.com, reject
+#host, hmma.baidu.com, reject
+#host, bgg.baidu.com, reject
+#host, baidu.com/sugrec?, reject
+#host, hectorstatic.baidu.com, reject
+#host, m.baidu.com/tcbox?service, reject
+;host, www.example.com, direct

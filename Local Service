@@ -1,0 +1,28 @@
+# 分流规则
+# 本地直连
+
+HOST-SUFFIX, acl4ssr, direct
+HOST-SUFFIX, ip6-localhost, direct
+HOST-SUFFIX, ip6-loopback, direct
+HOST-SUFFIX, local, direct
+HOST-SUFFIX, localhost, direct
+IP-CIDR, 10.0.0.0/8, direct, no-resolve
+IP-CIDR, 100.64.0.0/10, direct, no-resolve
+IP-CIDR, 127.0.0.0/8, direct, no-resolve
+IP-CIDR, 172.16.0.0/12, direct, no-resolve
+IP-CIDR, 192.168.0.0/16, direct, no-resolve
+IP6-CIDR, ::1/128, direct, no-resolve
+IP6-CIDR, fc00::/7, direct, no-resolve
+IP6-CIDR, fe80::/10, direct, no-resolve
+IP6-CIDR, fd00::/8, direct, no-resolve
+DOMAIN, router.asus.com, direct
+HOST-SUFFIX, hiwifi.com, direct
+HOST-SUFFIX, leike.cc, direct
+HOST-SUFFIX, miwifi.com, direct
+HOST-SUFFIX, my.router, direct
+HOST-SUFFIX, p.to, direct
+HOST-SUFFIX, peiluyou.com, direct
+HOST-SUFFIX, phicomm.me, direct
+HOST-SUFFIX, routerlogin.com, direct
+HOST-SUFFIX, tendawifi.com, direct
+HOST-SUFFIX, zte.home, direct
