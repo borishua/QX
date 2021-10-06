@@ -1,0 +1,57 @@
+# 分流规则
+# 自用补充调整
+
+
+# 微信
+host-suffix, weixin.qq.com, direct
+# 银行
+host-suffix, 95599.cn, direct
+host-suffix, abchina.com, direct
+host-suffix, bscabank.com, direct
+host-suffix, openaboc.cn, direct
+host-suffix, openaboc.com, direct
+host-suffix, openaboc.com.cn, direct
+# e代驾
+host-suffix, edaijia.cn, direct
+host-suffix, edaijia.jikedata.com, direct
+# 其他
+host-suffix, xdrig.com, direct
+host-suffix, cl2009.com, direct
+host-suffix, lanzoui.com, direct
+host-suffix, baidupan.com, direct
+# 51万年历
+host-suffix, 51wnl-cq.com, direct
+host-suffix, 51wnl.com, direct
+# Widgy App
+host, widgy.fra1.digitaloceanspaces.com, 海外服务
+host-suffix, widgy.icu, 海外服务
+# Apple
+host, metrics.icloud.com, direct
+# 播客
+host-suffix, acast.com, 海外服务
+host-suffix, tunein.com, 海外服务
+host-suffix, radiotime.com, 海外服务
+host-suffix, cercube.com, 海外服务
+# 阿里云盘
+host-suffix, alipan.club, direct
+# 简书APP
+host, s6.jianshuapi.com, 海外服务
+# 星支付
+host-suffix, postar.cn, direct
+host-suffix, shxgroup.net, direct
+host, app-image-production.oss-accelerate.aliyuncs.com, direct
+# 影视相关
+host-suffix, nfxhd.com, 海外服务
+host-suffix, pornlulu.com, 海外服务
+host-suffix, cqscmy.net, 海外服务
+host-suffix, lbbf9.com, 海外服务
+host-suffix, ddyunbo.com, 海外服务
+host-suffix, 51daao.com, 海外服务
+host-suffix, hhmm0.com, 海外服务
+# 其他
+host-suffix, crisp.chat, 海外服务
+host-suffix, xn--5oq250jekh.com, 海外服务
+# 机场
+host-suffix, easyintnet.com, 海外服务
+# 定位导航
+USER-AGENT, maps*, DIRECT

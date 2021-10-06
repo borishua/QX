@@ -1,0 +1,9 @@
+# 分流规则
+# 苹果证书验证、升级服务等
+
+# Apple Update
+host, ns.itunes.apple.com, AppleUpdate
+host, appldnld.apple.com, AppleUpdate
+host, mesu.apple.com, AppleUpdate
+host, xp.apple.com, AppleUpdate
+host, gdmf.apple.com, AppleUpdate
