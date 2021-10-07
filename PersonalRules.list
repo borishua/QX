@@ -27,6 +27,8 @@ host, widgy.fra1.digitaloceanspaces.com, 海外服务
 host-suffix, widgy.icu, 海外服务
 # Apple
 host, metrics.icloud.com, direct
+# jsdelivr
+host-suffix, jsdelivr.com, 海外服务
 # 播客
 host-suffix, acast.com, 海外服务
 host-suffix, tunein.com, 海外服务
