@@ -57,3 +57,6 @@ host-suffix, xn--5oq250jekh.com, 海外服务
 host-suffix, easyintnet.com, 海外服务
 # 定位导航
 USER-AGENT, maps*, DIRECT
+# SimBox
+host-suffix, ucloudlink.com, direct
+host-suffix, mi.com, direct
