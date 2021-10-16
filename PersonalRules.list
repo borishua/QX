@@ -1,6 +1,4 @@
-# 分流规则
-# 自用补充调整
-
+# 分流规则，自用补充调整
 
 # 微信
 host-suffix, weixin.qq.com, direct
@@ -60,3 +58,5 @@ USER-AGENT, maps*, DIRECT
 # SimBox
 host-suffix, ucloudlink.com, direct
 host-suffix, mi.com, direct
+# 360防骚扰升级
+host, p.s.360.cn, direct
