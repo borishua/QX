@@ -2,20 +2,20 @@
 #!desc=Unlock Apple News without SIM Card Detect
 [Rule]
 # > Apple News 
-PROCESS-NAME,News,Apple Services
-PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,Apple Services
-PROCESS-NAME,NewsTag,Apple Services
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,Apple Services
-PROCESS-NAME,NewsToday2,Apple Services
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,Apple Services
-PROCESS-NAME,NewsTodayIntents,Apple Services
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,Apple Services
-USER-AGENT,AppleNews*,Apple Services
-DOMAIN,news-assets.apple.com,Apple Services
-DOMAIN,news-client.apple.com,Apple Services
-DOMAIN,news-edge.apple.com,Apple Services
-DOMAIN,news-events.apple.com,Apple Services
-DOMAIN,apple.comscoreresearch.com,Apple Services
+PROCESS-NAME,News,海外服务
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,海外服务
+PROCESS-NAME,NewsTag,海外服务
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,海外服务
+PROCESS-NAME,NewsToday2,海外服务
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,海外服务
+PROCESS-NAME,NewsTodayIntents,海外服务
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,海外服务
+USER-AGENT,AppleNews*,海外服务
+DOMAIN,news-assets.apple.com,海外服务
+DOMAIN,news-client.apple.com,海外服务
+DOMAIN,news-edge.apple.com,海外服务
+DOMAIN,news-events.apple.com,海外服务
+DOMAIN,apple.comscoreresearch.com,海外服务
 
 [URL Rewrite]
 # Redirect GeoServices
