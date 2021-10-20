@@ -62,4 +62,3 @@ host-suffix, mi.com, direct
 host, p.s.360.cn, direct
 # 解析服务商
 host-suffix, nslookup.io, 海外服务
-host-suffix, nslookup.io, 海外服务
