@@ -60,3 +60,5 @@ host-suffix, ucloudlink.com, direct
 host-suffix, mi.com, direct
 # 360防骚扰升级
 host, p.s.360.cn, direct
+# 解析服务商
+host, nslookup.io, 海外服务
