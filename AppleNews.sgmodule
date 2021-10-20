@@ -1,0 +1,25 @@
+#!name= Unlock Apple News without SIM Card Detect
+#!desc=Unlock Apple News without SIM Card Detect
+[Rule]
+# > Apple News 
+PROCESS-NAME,News,Apple Services
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,Apple Services
+PROCESS-NAME,NewsTag,Apple Services
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,Apple Services
+PROCESS-NAME,NewsToday2,Apple Services
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,Apple Services
+PROCESS-NAME,NewsTodayIntents,Apple Services
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,Apple Services
+USER-AGENT,AppleNews*,Apple Services
+DOMAIN,news-assets.apple.com,Apple Services
+DOMAIN,news-client.apple.com,Apple Services
+DOMAIN,news-edge.apple.com,Apple Services
+DOMAIN,news-events.apple.com,Apple Services
+DOMAIN,apple.comscoreresearch.com,Apple Services
+
+[URL Rewrite]
+# Redirect GeoServices
+(^https?:\/\/gspe\d*-ssl\.ls\.apple\.)(com|cn)(\/.*)(country_code=[A-Z]{2})(.*) $1$2$3country_code=HK$5 header
+
+[MITM]
+hostname = %APPEND% gspe35-ssl.ls.apple.com
