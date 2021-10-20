@@ -3,11 +3,11 @@
 
 [Rule]
 # > Look Up (查询, macOS, Wikipedia, Surge Enhance Mode enabled required)
-# PROCESS-NAME,LookupViewService,Apple Services
-# PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService,Apple Services
-# DOMAIN,lookup-api.apple.com,Apple Services
-DOMAIN,lookup-api.apple.com.edgekey.net,Apple Services
-DOMAIN,e16991.b.akamaiedge.net,Apple Services
+# PROCESS-NAME,LookupViewService,海外服务
+# PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService,海外服务
+# DOMAIN,lookup-api.apple.com,海外服务
+DOMAIN,lookup-api.apple.com.edgekey.net,海外服务
+DOMAIN,e16991.b.akamaiedge.net,海外服务
 
 [URL Rewrite]
 # Redirect Siri Suggestions Service 
