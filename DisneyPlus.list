@@ -2,7 +2,7 @@
 # Disney+流媒体
 
 # Disney+
-USER-AGENT,Disney+*, proxy
+USER-AGENT, Disney+*, proxy
 HOST-SUFFIX, bamgrid.com, proxy
 HOST-SUFFIX, disneyplus.com, proxy
 HOST-SUFFIX, disney-plus.net, proxy
