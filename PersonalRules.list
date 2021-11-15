@@ -78,3 +78,8 @@ host-suffix, co.kr, 海外服务
 host-suffix, akemi.ai, 海外服务
 host-suffix, editornah.top, 海外服务
 host-suffix, rejail.ru, 海外服务
+# costco开市客
+host-suffix, azure.cn, direct
+host-suffix, chinacloudapi.cn, direct
+# 奇心老服务器
+host-suffix, qxzy.top, reject
