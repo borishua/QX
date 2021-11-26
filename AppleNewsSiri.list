@@ -1,12 +1,12 @@
-# > Apple News 
-PROCESS-NAME,News,海外服务
-PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,海外服务
-PROCESS-NAME,NewsTag,海外服务
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,海外服务
-PROCESS-NAME,NewsToday2,海外服务
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,海外服务
-PROCESS-NAME,NewsTodayIntents,海外服务
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,海外服务
+# > Apple News For MacOS
+;PROCESS-NAME,News,海外服务
+;PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,海外服务
+;PROCESS-NAME,NewsTag,海外服务
+;PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,海外服务
+;PROCESS-NAME,NewsToday2,海外服务
+;PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,海外服务
+;PROCESS-NAME,NewsTodayIntents,海外服务
+;PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,海外服务
 USER-AGENT,AppleNews*,海外服务
 DOMAIN,news-assets.apple.com,海外服务
 DOMAIN,news-client.apple.com,海外服务
@@ -20,8 +20,8 @@ DOMAIN,apple.comscoreresearch.com,海外服务
 DOMAIN,lookup-api.apple.com.edgekey.net,海外服务
 DOMAIN,e16991.b.akamaiedge.net,海外服务
 # > Wikipedia For Siri
-PROCESS-NAME,LookupViewService
-PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+;PROCESS-NAME,LookupViewService
+;PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
 DOMAIN,lookup-api.apple.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN,e16991.b.akamaiedge.net
