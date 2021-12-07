@@ -90,3 +90,7 @@ host-suffix, azure.cn, direct
 host-suffix, chinacloudapi.cn, direct
 # 奇心老服务器
 host-suffix, qxzy.top, reject
+# APP风控服务器
+host-suffix, fengkongcloud.com, reject
+# nextdns
+host-suffix, nextdns.io, 海外服务
