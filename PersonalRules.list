@@ -94,3 +94,5 @@ host-suffix, qxzy.top, reject
 host-suffix, fengkongcloud.com, reject
 # nextdns
 host-suffix, nextdns.io, 海外服务
+# 饿了么
+IP-CIDR, 203.107.1.1/24, direct
