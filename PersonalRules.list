@@ -96,3 +96,11 @@ host-suffix, fengkongcloud.com, reject
 host-suffix, nextdns.io, 海外服务
 # 饿了么
 IP-CIDR, 203.107.1.1/24, direct
+# Download
+host-suffix, smtp, direct
+host-keyword, aria2, direct
+host-keyword, thunder, direct
+host-keyword, xlliveud, direct
+host-keyword, xunlei, direct
+host-keyword, yunpan, direct
+
