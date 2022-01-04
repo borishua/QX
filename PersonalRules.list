@@ -9,6 +9,7 @@ host, hub5idx.v6.shub.sandai.net, reject
 host, hub5emu.v6.shub.sandai.net, reject
 host, hub5btmain.v6.shub.sandai.net, reject
 # 银行
+host-suffix, pbcdci.cn, direct
 host-suffix, 95599.cn, direct
 host-suffix, abchina.com, direct
 host-suffix, bscabank.com, direct
