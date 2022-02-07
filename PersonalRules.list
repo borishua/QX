@@ -111,7 +111,3 @@ host, costco.com.cn, direct
 host-suffix, costco.com.cn, direct
 host, chinacloudapi.cn, direct
 host-suffix, chinacloudapi.cn, direct
-# DH services
-host, dh-dns.global-idc.net, direct
-host-suffix, dh-dns.global-idc.net, direct
-ip-cidr, 162.14.132.76/0, direct
