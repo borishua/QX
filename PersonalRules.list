@@ -104,4 +104,14 @@ host-keyword, thunder, direct
 host-keyword, xlliveud, direct
 host-keyword, xunlei, direct
 host-keyword, yunpan, direct
-
+# Costco
+host, sh2dmpblobsa.blob.core.chinacloudapi.cn, direct
+host-suffix, sh2dmpblobsa.blob.core.chinacloudapi.cn, direct
+host, costco.com.cn, direct
+host-suffix, costco.com.cn, direct
+host, chinacloudapi.cn, direct
+host-suffix, chinacloudapi.cn, direct
+# DH-DNS services
+host, dh-dns.global-idc.net, direct
+host-suffix, dh-dns.global-idc.net, direct
+ip-cidr, 162.14.132.76/0, direct
