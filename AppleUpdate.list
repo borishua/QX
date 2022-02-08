@@ -2,6 +2,9 @@
 # 苹果证书验证、升级服务等
 
 # Apple Update
+
+host, ocsp.apple.com, Apple Update
+host, ocsp2.apple.com, Apple Update
 host, ns.itunes.apple.com, Apple Update
 host, appldnld.apple.com, Apple Update
 host, mesu.apple.com, Apple Update
