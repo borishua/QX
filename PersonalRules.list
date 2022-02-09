@@ -2,7 +2,6 @@
 
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
-host, ocsp2.apple.com, reject
 # YouTube 去底部广告
 host-suffix, ehg-youtube.hitbox.com, reject
 # 避免迅雷版权问题
