@@ -1,0 +1,8 @@
+# Emby
+USER-AGENT, Emby*, 海外服务
+host, emby-cf.plusmedia.site, 海外服务
+host, emby.plusmedia.site, 海外服务
+host, emby.xeton.dev, 海外服务
+host, jellyfin.xeton.dev, 海外服务
+host, movie.xeton.dev, 海外服务
+host, servers.xeton.dev, 海外服务
