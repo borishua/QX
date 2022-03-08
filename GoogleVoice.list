@@ -1,0 +1,10 @@
+## https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GoogleVoice/GoogleVoice.list
+## add Personal
+## Time:2022-03-08
+
+HOST,lens.l.google.com,GoogleVoice
+# Personal Add
+HOST,stun.l.google.com,GoogleVoice
+HOST,voice.telephony.goog,GoogleVoice
+IP-CIDR,216.239.36.145,GoogleVoice
+IP-CIDR,74.125.39.80,GoogleVoice
