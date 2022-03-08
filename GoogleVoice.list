@@ -6,5 +6,5 @@ HOST,lens.l.google.com,GoogleVoice
 # Personal Add
 HOST,stun.l.google.com,GoogleVoice
 HOST,voice.telephony.goog,GoogleVoice
-IP-CIDR,216.239.36.145,GoogleVoice
-IP-CIDR,74.125.39.80,GoogleVoice
+IP-CIDR,216.239.36.0/24,GoogleVoice
+IP-CIDR,74.125.39.0/24,GoogleVoice
