@@ -111,3 +111,5 @@ host, costco.com.cn, direct
 host-suffix, costco.com.cn, direct
 host, chinacloudapi.cn, direct
 host-suffix, chinacloudapi.cn, direct
+# 博联智能
+host-suffix, ibroadlink.com, direct
