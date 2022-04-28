@@ -74,7 +74,7 @@ host, p.s.360.cn, direct
 host-suffix, shouji.360.cn, direct
 host, shouji.360.cn, direct
 # 解析服务商
-;host-suffix, nslookup.io, 海外服务
+host-suffix, nslookup.io, 海外服务
 # Cydia Source
 host-suffix, chariz.com, 海外服务
 host-suffix, packix.com, 海外服务
@@ -97,7 +97,7 @@ host-suffix, qxzy.top, reject
 # APP风控服务器
 host-suffix, fengkongcloud.com, reject
 # nextdns
-host-suffix, nextdns.io, 海外服务
+;host-suffix, nextdns.io, 海外服务
 # 饿了么
 IP-CIDR, 203.107.1.1/24, direct
 # Download
