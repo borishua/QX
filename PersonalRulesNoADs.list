@@ -10,15 +10,15 @@ HOST-SUFFIX,im64.jpush.cn, reject
 HOST-SUFFIX,im.jpush.cn, reject
 HOST-SUFFIX,jpush.html5.qq.com, reject
 # > 酷狗，酷我音乐等多个app启动广告
-host-keyword, rich.kuwo.cn, reject
-host-keyword, mobilead.kuwo.cn, reject
-host-keyword, splashimgbssdl.yun.kugou.com, reject
-host, adsfile.bssdlbig.kugou.com, reject
-HOST-SUFFIX,oth.eve.mdt.qq.com, reject
-HOST,pgdt.gtimg.cn, reject
-HOST-SUFFIX,pgdt.gtimg.cn, reject
-HOST,pgdt.gtimg.com, reject
-HOST,adsmind.gdtimg.com, reject
+;host-keyword, rich.kuwo.cn, reject
+;host-keyword, mobilead.kuwo.cn, reject
+;host-keyword, splashimgbssdl.yun.kugou.com, reject
+;host, adsfile.bssdlbig.kugou.com, reject
+;HOST-SUFFIX,oth.eve.mdt.qq.com, reject
+;HOST,pgdt.gtimg.cn, reject
+;HOST-SUFFIX,pgdt.gtimg.cn, reject
+;HOST,pgdt.gtimg.com, reject
+;HOST,adsmind.gdtimg.com, reject
 # > 向日葵
 host, dm.toutiao.com, reject
 host-keyword, upload-cdn.orayimg.com, reject
@@ -29,16 +29,16 @@ host, push.oray.com, reject
 HOST-SUFFIX,offline-adv.oray.com, reject
 host-keyword, upload-cdn.orayimg.com-upload-activity, reject
 ## QQ音乐广告
-HOST,ad.tencentmusic.com, reject
-HOST,adstats.tencentmusic.com, reject
-HOST,tmead.y.qq.com, reject
-HOST-SUFFIX,rqd.qq.com, reject
-HOST-SUFFIX,wup.imtt.qq.com, reject
-HOST-SUFFIX,gdt.qq.com, reject
-HOST-SUFFIX,android.rqd.qq.com, reject
-HOST-SUFFIX,e.qq.com, reject
-HOST-SUFFIX,beacon.qq.com, reject
-HOST-SUFFIX,v.gdt.qq.com, reject
+;HOST,ad.tencentmusic.com, reject
+;HOST,adstats.tencentmusic.com, reject
+;HOST,tmead.y.qq.com, reject
+;HOST-SUFFIX,rqd.qq.com, reject
+;HOST-SUFFIX,wup.imtt.qq.com, reject
+;HOST-SUFFIX,gdt.qq.com, reject
+;HOST-SUFFIX,android.rqd.qq.com, reject
+;HOST-SUFFIX,e.qq.com, reject
+;HOST-SUFFIX,beacon.qq.com, reject
+;HOST-SUFFIX,v.gdt.qq.com, reject
 # > 小米
 HOST,data.mistat.xiaomi.com, reject
 HOST,tracking.intl.miui.com, reject
@@ -49,20 +49,20 @@ HOST,ma-adx.ctrip.com,REJECT
 HOST,u.ctrip.com,REJECT
 host, dimg04.c-ctrip.com, reject
 # > 高德
-HOST-SUFFIX,adiu.amap.com,REJECT
-HOST,aboard.apilocate.amap.com,REJECT
-HOST,apiinit.amap.com,REJECT
-HOST,icloud-amap.com,REJECT
-HOST,logs.amap.com,REJECT
-HOST-SUFFIX,dualstack-logs.amap.com,REJECT
-HOST-SUFFIX,logs.amap.com,REJECT
-HOST-SUFFIX,optimus-ads.amap.com,REJECT
-HOST-SUFFIX,page.amap.com,REJECT
-HOST,optimus-ads.amap.com, reject
-HOST,optimus-ads.amap.com.w.alikunlun.com, reject
-HOST-SUFFIX, shouji.sougou.com, reject
-HOST, u51.me, reject
-HOST-SUFFIX, u51.me, reject
+;HOST-SUFFIX,adiu.amap.com,REJECT
+;HOST,aboard.apilocate.amap.com,REJECT
+;HOST,apiinit.amap.com,REJECT
+;HOST,icloud-amap.com,REJECT
+;HOST,logs.amap.com,REJECT
+;HOST-SUFFIX,dualstack-logs.amap.com,REJECT
+;HOST-SUFFIX,logs.amap.com,REJECT
+;HOST-SUFFIX,optimus-ads.amap.com,REJECT
+;HOST-SUFFIX,page.amap.com,REJECT
+;HOST,optimus-ads.amap.com, reject
+;HOST,optimus-ads.amap.com.w.alikunlun.com, reject
+;HOST-SUFFIX, shouji.sougou.com, reject
+;HOST, u51.me, reject
+;HOST-SUFFIX, u51.me, reject
 # > 美团
 HOST, flowplus.meituan.net, reject
 HOST-SUFFIX, analytics.meituan.net, reject
