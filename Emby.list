@@ -2,12 +2,15 @@
 USER-AGENT, Emby*, 海外服务
 host, emby-cf.plusmedia.site, 海外服务
 host, emby.plusmedia.site, 海外服务
+host-suffix, plusmedia.site, 海外服务
 host, emby.xeton.dev, 海外服务
 host, jellyfin.xeton.dev, 海外服务
 host, movie.xeton.dev, 海外服务
 host, servers.xeton.dev, 海外服务
+host-suffix, xeton.dev, 海外服务
 host, vip.pornemby.club, 海外服务
+host-suffix, pornemby.club, 海外服务
 host, vipemby.writerxhome.xyz, 海外服务
+host-suffix, writerxhome.xyz, 海外服务
 host, emby.flowercloud.yt, 海外服务
-host, embyaz.misakaf.xyz, 海外服务
-host, emby.misakaf.xyz, 大陆服务
+host-suffix, misakaf.xyz, 海外服务
