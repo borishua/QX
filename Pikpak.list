@@ -1,0 +1,6 @@
+# https://raw.githubusercontent.com/kabu0124/clash/main/Pikpak.list
+
+host-suffix, mypikpak.com, 海外服务
+host-suffix, hub5pr.v6.phub.sandai.net, 海外服务
+host-suffix, vod0051-aliyun18-vip-lixian.mypikpak.com, 海外服务
+host-keyword, pikpak.com, 海外服务
