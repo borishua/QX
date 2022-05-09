@@ -14,3 +14,13 @@ host, vipemby.writerxhome.xyz, 海外服务
 host-suffix, writerxhome.xyz, 海外服务
 host, emby.flowercloud.yt, 海外服务
 host-suffix, misakaf.xyz, 海外服务
+HOST-SUFFIX, emby-cf.plusmedia.site, 海外服务
+HOST-SUFFIX, tv.emby.media, 海外服务
+HOST-SUFFIX, emby.media, 海外服务
+HOST-SUFFIX, emby.xeton.dev, 海外服务
+HOST-SUFFIX, tv.emby.neko.re, 海外服务
+HOST-SUFFIX, jellyfin.xeton.dev, 海外服务
+HOST-SUFFIX, movie.xeton.dev, 海外服务
+HOST-SUFFIX, servers.xeton.dev, 海外服务
+IP-CIDR, 38.94.111.242/32, 海外服务
+IP-CIDR, 38.94.111.242/22, 海外服务
