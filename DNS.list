@@ -1,0 +1,8 @@
+# Adguard DNS
+host-suffix, adguard-dns.io, 海外服务
+host, adguard-dns.io, 海外服务
+host-keyword, adguard-dns.io, 海外服务
+# NextDNS
+host-suffix, nextdns.io, 海外服务
+host, nextdns.io, 海外服务
+host-keyword, nextdns.io, 海外服务
