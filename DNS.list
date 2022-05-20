@@ -1,6 +1,6 @@
 # Adguard DNS
-host-suffix, adguard-dns.com, 海外服务
-host, adguard-dns.com, 海外服务
+host-suffix, adguard-dns.com, 大陆服务
+host, adguard-dns.com, 大陆服务
 host-suffix, adguard-dns.io, 海外服务
 host, adguard-dns.io, 海外服务
 host-keyword, adguard, 海外服务
