@@ -48,14 +48,14 @@ host, s6.jianshuapi.com, 海外服务
 host-suffix, postar.cn, direct
 host-suffix, shxgroup.net, direct
 host, app-image-production.oss-accelerate.aliyuncs.com, direct
-# 影视相关
-host-suffix, nfxhd.com, 海外服务
-host-suffix, pornlulu.com, 海外服务
-host-suffix, cqscmy.net, 海外服务
-host-suffix, lbbf9.com, 海外服务
-host-suffix, ddyunbo.com, 海外服务
-host-suffix, 51daao.com, 海外服务
-host-suffix, hhmm0.com, 海外服务
+# 影视相关(已移入RulesMedia)
+;host-suffix, nfxhd.com, 海外服务
+;host-suffix, pornlulu.com, 海外服务
+;host-suffix, cqscmy.net, 海外服务
+;host-suffix, lbbf9.com, 海外服务
+;host-suffix, ddyunbo.com, 海外服务
+;host-suffix, 51daao.com, 海外服务
+;host-suffix, hhmm0.com, 海外服务
 # 其他
 host-suffix, crisp.chat, 海外服务
 host-suffix, xn--5oq250jekh.com, 海外服务
