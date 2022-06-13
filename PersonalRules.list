@@ -65,6 +65,7 @@ host-suffix, ibuu.cc, 海外服务
 host-suffix, haotas.com, 海外服务
 host-suffix, qcrane-1.xyz, 海外服务
 host-suffix, freejump.live, 海外服务
+host-suffix, nessbyte.com, 海外服务
 # 定位导航
 USER-AGENT, maps*, DIRECT
 # SimBox
