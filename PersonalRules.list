@@ -42,6 +42,10 @@ host-suffix, radiotime.com, 海外服务
 host-suffix, cercube.com, 海外服务
 # 阿里云盘
 host-suffix, alipan.club, direct
+# 无忧行
+host-suffix, jegotrip.com.cn, direct
+# Office 365
+host-suffix, office365.com, direct
 # 简书APP
 host, s6.jianshuapi.com, 海外服务
 # 星支付
@@ -57,15 +61,18 @@ host, app-image-production.oss-accelerate.aliyuncs.com, direct
 ;host-suffix, 51daao.com, 海外服务
 ;host-suffix, hhmm0.com, 海外服务
 # 其他
+host-suffix, onecloudme.work, DIRECT
 host-suffix, crisp.chat, 海外服务
 host-suffix, xn--5oq250jekh.com, 海外服务
 # 机场
+host-suffix, lightnode.com, 海外服务
 host-suffix, easyintnet.com, 海外服务
 host-suffix, ibuu.cc, 海外服务
 host-suffix, haotas.com, 海外服务
 host-suffix, qcrane-1.xyz, 海外服务
 host-suffix, freejump.live, 海外服务
 host-suffix, nessbyte.com, 海外服务
+host-suffix, xflash.cc, 海外服务
 # 定位导航
 USER-AGENT, maps*, DIRECT
 # SimBox
@@ -98,8 +105,9 @@ host-suffix, chinacloudapi.cn, direct
 host-suffix, qxzy.top, reject
 # APP风控服务器
 host-suffix, fengkongcloud.com, reject
-# nextdns
-;host-suffix, nextdns.io, 海外服务
+# nextdns adguard
+host-keyword, nextdns, 海外服务
+host-keyword, adguard, 海外服务
 # 饿了么
 IP-CIDR, 203.107.1.1/24, direct
 # Download
