@@ -1,13 +1,5 @@
 # 分流规则，自用补充调整
 
-# 绕过企业证书过期
-host, ocsp.apple.com, reject
-# YouTube 去底部广告
-host-suffix, ehg-youtube.hitbox.com, reject
-# 避免迅雷版权问题
-host, hub5idx.v6.shub.sandai.net, reject
-host, hub5emu.v6.shub.sandai.net, reject
-host, hub5btmain.v6.shub.sandai.net, reject
 # 银行
 host-suffix, pbcdci.cn, direct
 host-suffix, 95599.cn, direct
@@ -101,13 +93,6 @@ host-suffix, rejail.ru, 海外服务
 # costco开市客
 host-suffix, azure.cn, direct
 host-suffix, chinacloudapi.cn, direct
-# 奇心老服务器
-host-suffix, qxzy.top, reject
-# APP风控服务器
-host-suffix, fengkongcloud.com, reject
-# nextdns adguard
-host-keyword, nextdns, 海外服务
-host-keyword, adguard, 海外服务
 # 饿了么
 IP-CIDR, 203.107.1.1/24, direct
 # Download
@@ -126,6 +111,3 @@ host, chinacloudapi.cn, direct
 host-suffix, chinacloudapi.cn, direct
 # 博联智能
 host-suffix, ibroadlink.com, direct
-# HDOBOX 去广告
-host-suffix, applovin.com, reject
-host-suffix, applvn.com, reject
