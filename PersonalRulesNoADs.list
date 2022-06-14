@@ -1,5 +1,20 @@
 ## 更新时间  2022.06.14
 
+# 绕过企业证书过期
+host, ocsp.apple.com, reject
+# YouTube 去底部广告
+host-suffix, ehg-youtube.hitbox.com, reject
+# 避免迅雷版权问题
+host, hub5idx.v6.shub.sandai.net, reject
+host, hub5emu.v6.shub.sandai.net, reject
+host, hub5btmain.v6.shub.sandai.net, reject
 # CHN: AdRules DNS List
-HOST-SUFFIX,anythinktech.com,reject
-HOST-SUFFIX,pv.sohu.com,reject
+host-suffix, anythinktech.com,reject
+host-suffix, pv.sohu.com,reject
+# APP风控服务器
+host-suffix, fengkongcloud.com, reject
+# 奇心老服务器
+host-suffix, qxzy.top, reject
+# HDOBOX 去广告
+host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
