@@ -8,3 +8,5 @@ host-keyword, adguard, 海外服务
 host-suffix, nextdns.io, 海外服务
 host, nextdns.io, 海外服务
 host-keyword, nextdns, 海外服务
+# Google DNS
+host-suffix, dns.google, Google
