@@ -133,3 +133,4 @@ host-suffix, xiaomifirmwareupdater.com, direct
 host-suffix, xiaomifirmwareupdater.com, direct
 host-suffix, xiaomitoday.com, direct
 host, xmpush.xiaomi.com, direct
+host, api.jr.mi.com, direct
