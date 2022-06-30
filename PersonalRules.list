@@ -132,5 +132,17 @@ host-suffix, xiaomi-miui.gr, direct
 host-suffix, xiaomifirmwareupdater.com, direct
 host-suffix, xiaomifirmwareupdater.com, direct
 host-suffix, xiaomitoday.com, direct
-host, xmpush.xiaomi.com, direct
-host, api.jr.mi.com, direct
+host-suffix, xmpush.xiaomi.com, direct
+host-suffix, api.jr.mi.com, direct
+# TaoBao
+host-suffix, acs.m.taobao.com, direct
+host-suffix, taojinbi.taobao.com, direct
+host-suffix, click.mz.simba.taobao.com, direct
+host-suffix, click.taobao.com, direct
+host-suffix, err.taobao.com, direct
+host-suffix, odin.re.taobao.com, direct
+host-suffix, retcode.taobao.com, direct
+host-suffix, simba.taobao.com, direct
+# Alipay
+host-suffix, icashier.alipay.com, direct
+host-suffix, iopen.alipay.com, direct
