@@ -117,3 +117,19 @@ host-suffix, ibroadlink.com, direct
 # xiaomi
 host, resolver.msg.xiaomi.net, direct
 host, app.chat.xiaomi.net, direct
+host-suffix, tutorialxiaomi.com, direct
+host, app.market.xiaomi.com, direct
+host, cdn-thumb.fds.api.xiaomi.com, direct
+host, data.mistat.xiaomi.com, direct
+host, image.box.xiaomi.com, direct
+host, package.wallpaper.cdn.pandora.xiaomi.com.lan, direct
+host, pdc.micloud.xiaomi.net, direct
+host, sec.resource.xiaomi.net, direct
+host, w.pandora.xiaomi.com, direct
+host, wallpaper.cdn.pandora.xiaomi.com, direct
+host, wtradv.market.xiaomi.com, direct
+host-suffix, xiaomi-miui.gr, direct
+host-suffix, xiaomifirmwareupdater.com, direct
+host-suffix, xiaomifirmwareupdater.com, direct
+host-suffix, xiaomitoday.com, direct
+host, xmpush.xiaomi.com, direct
