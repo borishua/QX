@@ -149,3 +149,4 @@ host-suffix, iopen.alipay.com, direct
 # 华为AITO
 host-suffix, uopes.cn, direct
 host-suffix, dt.hicloud.com, direct
+host-suffix, dbankcdn.com, direct
