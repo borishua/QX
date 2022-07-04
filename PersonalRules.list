@@ -146,3 +146,6 @@ host-suffix, simba.taobao.com, direct
 # Alipay
 host-suffix, icashier.alipay.com, direct
 host-suffix, iopen.alipay.com, direct
+# 华为AITO
+host-suffix, uopes.cn, direct
+host-suffix, dt.hicloud.com, direct
