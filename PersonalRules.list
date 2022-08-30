@@ -16,6 +16,9 @@ host-suffix, xdrig.com, direct
 host-suffix, cl2009.com, direct
 host-suffix, lanzoui.com, direct
 host-suffix, baidupan.com, direct
+# 部分误分流
+host-suffix, byteimg.com, direct
+host-suffix, shimolife, direct
 host-suffix, ifanr.com, direct
 # 51万年历
 host-suffix, 51wnl-cq.com, direct
