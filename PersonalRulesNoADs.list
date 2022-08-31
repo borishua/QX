@@ -22,5 +22,6 @@ host-suffix, applvn.com, reject
 ;host-wildcard, ?ad?.byteimg.com, reject
 ;host-wildcard, *ad*.byteimg.com, reject
 host-wildcard, *-ad-sign.byteimg.com, reject
+host-wildcard, *-ad-sign.byteimg.com, reject
 host, p6-ad-sign.byteimg.com, reject
 host, p9-ad-sign.byteimg.com, reject
