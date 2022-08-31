@@ -26,6 +26,7 @@ host-suffix, bytegecko.com, direct
 host-suffix, qweather.com, direct
 host, resolver.dingtalk.com, direct
 host-suffix, zego.im, direct
+host, att.fengimg.com, direct
 # 51万年历
 host-suffix, 51wnl-cq.com, direct
 host-suffix, 51wnl.com, direct
