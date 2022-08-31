@@ -21,5 +21,12 @@ host-suffix, applvn.com, reject
 # 住小帮开屏广告
 host-wildcard, ?ad-sign.byteimg.com, reject
 host-wildcard, *ad-sign.byteimg.com, reject
+host-wildcard, ?passport.byteacctimg.com, reject
+host-wildcard, *passport.byteacctimg.com, reject
+host-wildcard, ?zhuxiaobang-sign.shimolife.com, reject
+host-wildcard, *zhuxiaobang-sign.shimolife.com, reject
 host, p6-ad-sign.byteimg.com, reject
 host, p9-ad-sign.byteimg.com, reject
+host, p3-passport.byteacctimg.com, reject
+host, p3-zhuxiaobang-sign.shimolife.com, reject
+host, p9-zhuxiaobang-sign.shimolife.com, reject
