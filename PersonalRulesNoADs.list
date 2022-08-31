@@ -19,9 +19,7 @@ host-suffix, qxzy.top, reject
 host-suffix, applovin.com, reject
 host-suffix, applvn.com, reject
 # 住小帮开屏广告
-;host-wildcard, ?ad?.byteimg.com, reject
-;host-wildcard, *ad*.byteimg.com, reject
-host-wildcard, *-ad-sign.byteimg.com, reject
-host-wildcard, *-ad-sign.byteimg.com, reject
+host-wildcard, ?ad-sign.byteimg.com, reject
+host-wildcard, *ad-sign.byteimg.com, reject
 host, p6-ad-sign.byteimg.com, reject
 host, p9-ad-sign.byteimg.com, reject
