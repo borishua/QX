@@ -29,4 +29,6 @@ host, p6-ad-sign.byteimg.com, reject
 host, p9-ad-sign.byteimg.com, reject
 host, p3-passport.byteacctimg.com, reject
 host, p3-zhuxiaobang-sign.shimolife.com, reject
+host, p6-zhuxiaobang-sign.shimolife.com, reject
 host, p9-zhuxiaobang-sign.shimolife.com, reject
+host, v3-default.365yg.com, reject
