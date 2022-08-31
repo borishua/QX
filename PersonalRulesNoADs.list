@@ -21,5 +21,4 @@ host-suffix, applvn.com, reject
 # 开屏广告
 host-wildcard, ?ad?.byteimg.com, reject
 host-wildcard, *ad*.byteimg.com, reject
-host-suffix, ?ad?.byteimg.com, reject
-host-suffix, *ad*.byteimg.com, reject
+host-suffix, *-ad-sign.byteimg.com, reject
