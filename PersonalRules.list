@@ -83,7 +83,6 @@ host-suffix, publicss.cc, 海外服务
 USER-AGENT, maps*, DIRECT
 # SimBox
 host-suffix, ucloudlink.com, direct
-host-suffix, mi.com, direct
 # 360防骚扰升级
 host, p.s.360.cn, direct
 host-suffix, shouji.360.cn, direct
@@ -126,6 +125,16 @@ host-suffix, chinacloudapi.cn, direct
 # 博联智能
 host-suffix, ibroadlink.com, direct
 # xiaomi
+host-wildcard, api.*.mi.com, direct
+host-wildcard, api.*.xiaomi.com, direct
+host, api.io.mi.com, direct
+host, api.m.mi.com, direct
+host, tp.hd.mi.com, direct
+host, api2.mina.mi.com, direct
+host, userprofile.mina.mi.com, direct
+host, api.account.xiaomi.com, direct
+host, stat.youpin.mi.com, direct
+host, home.mi.com, direct
 host, resolver.msg.xiaomi.net, direct
 host, app.chat.xiaomi.net, direct
 host-suffix, tutorialxiaomi.com, direct
