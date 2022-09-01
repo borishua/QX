@@ -32,13 +32,9 @@ host, v?-default.365yg.com, reject
 host, v*-default.365yg.com, reject
 host, p?-passport.byteacctimg.com, reject
 host, p*-passport.byteacctimg.com, reject
-host, p?-zhuxiaobang-sign.shimolife.com, reject
-host, p*-zhuxiaobang-sign.shimolife.com, reject
 host-suffix, p?-ad-sign.byteimg.com, reject
 host-suffix, p*-ad-sign.byteimg.com, reject
 host-suffix, v?-default.365yg.com, reject
 host-suffix, v*-default.365yg.com, reject
 host-suffix, p?-passport.byteacctimg.com, reject
 host-suffix, p*-passport.byteacctimg.com, reject
-host-suffix, p?-zhuxiaobang-sign.shimolife.com, reject
-host-suffix, p*-zhuxiaobang-sign.shimolife.com, reject
