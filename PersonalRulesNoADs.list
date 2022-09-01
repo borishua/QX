@@ -96,3 +96,13 @@ host, p27-passport.byteacctimg.com, reject
 host, p28-passport.byteacctimg.com, reject
 host, p29-passport.byteacctimg.com, reject
 host, p30-passport.byteacctimg.com, reject
+host, p1.shimolife.com, reject
+host, p2.shimolife.com, reject
+host, p3.shimolife.com, reject
+host, p4.shimolife.com, reject
+host, p5.shimolife.com, reject
+host, p6.shimolife.com, reject
+host, p7.shimolife.com, reject
+host, p8.shimolife.com, reject
+host, p9.shimolife.com, reject
+host, p10.shimolife.com, reject
