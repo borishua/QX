@@ -16,6 +16,7 @@ host-suffix, xdrig.com, direct
 host-suffix, cl2009.com, direct
 host-suffix, lanzoui.com, direct
 host-suffix, baidupan.com, direct
+host-suffix, myunidays.uk, direct
 # 部分误分流
 host-suffix, byteimg.com, direct
 host-suffix, shimolife, direct
