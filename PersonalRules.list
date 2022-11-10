@@ -173,3 +173,14 @@ host-suffix, iopen.alipay.com, direct
 host-suffix, uopes.cn, direct
 host-suffix, dt.hicloud.com, direct
 host-suffix, dbankcdn.com, direct
+#######
+# 墨鱼NoAds2022-08-12
+HOST, gateway.icloud.com, DIRECT
+HOST, www.libvio.com, DIRECT
+HOST, www.zzzfun.com, DIRECT
+HOST, www.zhenbuka3.com, DIRECT
+HOST, www.abskoop.com, DIRECT
+HOST-SUFFIX, qianoo.cn, DIRECT
+HOST-SUFFIX, nfmovies.com, DIRECT
+HOST-SUFFIX, apple.com, DIRECT
+HOST-KEYWORD, bimiacg, DIRECT
