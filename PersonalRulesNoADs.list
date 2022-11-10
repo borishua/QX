@@ -23,10 +23,10 @@ host, ntb.lanjie100.com, reject
 # 墨鱼 2022-08-12
 HOST-SUFFIX, ywak.com.cn, REJECT
 HOST-SUFFIX, govlaibing.cn, REJECT
-HOST-SUFFIX, log.trackingio.com,REJECT
-HOST-SUFFIX, adtrack.xiaojukeji.com,REJECT
-HOST-SUFFIX, adtrack.unilog.wostore.cn,REJECT
-HOST-SUFFIX, trackingio.com,REJECT
+HOST-SUFFIX, log.trackingio.com, REJECT
+HOST-SUFFIX, adtrack.xiaojukeji.com, REJECT
+HOST-SUFFIX, adtrack.unilog.wostore.cn, REJECT
+HOST-SUFFIX, trackingio.com, REJECT
 HOST-SUFFIX, hpplay.cn, REJECT
 HOST-SUFFIX, admobile.top, REJECT
 HOST-SUFFIX, yvfnb.cn, REJECT
