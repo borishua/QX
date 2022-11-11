@@ -40,7 +40,7 @@ HOST, token.safebrowsing.apple, REJECT
 HOST, tnc3-aliec2.snssdk.com, REJECT
 HOST, upload-images.jianshu.io, REJECT
 HOST, support.you.163.com, REJECT
-HOST, cm-cn-central-00001.albatross.10086.cn, REJECT
+;HOST, cm-cn-central-00001.albatross.10086.cn, REJECT
 HOST, cloudmobi-creative-center.s3.ap-southeast-1.amazonaws.com, REJECT
 HOST, s.openmediation.com, REJECT
 HOST, api.applovefrom.com, REJECT
