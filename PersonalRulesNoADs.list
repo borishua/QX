@@ -1,4 +1,4 @@
-## 更新时间  2022.11.10
+## 更新时间  2023.01.11
 
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
@@ -20,6 +20,10 @@ host-suffix, applovin.com, reject
 host-suffix, applvn.com, reject
 # 拦截100追踪
 host, ntb.lanjie100.com, reject
+# 慧车天下 去广告修正
+HOST, api-access.pangolin-sdk-toutiao.com, REJECT
+# Safari 防跳转
+;HOST, app-site-association.cdn-apple.com, REJECT
 # 墨鱼 2022-08-12
 HOST-SUFFIX, ywak.com.cn, REJECT
 HOST-SUFFIX, govlaibing.cn, REJECT
