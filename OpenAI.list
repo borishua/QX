@@ -1,0 +1,5 @@
+# 分流规则
+# OpenAI
+
+# OpenAI
+HOST-SUFFIX, openai.com, proxy
