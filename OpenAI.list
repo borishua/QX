@@ -3,3 +3,4 @@
 
 # OpenAI
 HOST-SUFFIX, openai.com, proxy
+HOST-SUFFIX, chatopenai.com, proxy
