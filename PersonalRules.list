@@ -184,3 +184,6 @@ HOST-SUFFIX, qianoo.cn, DIRECT
 HOST-SUFFIX, nfmovies.com, DIRECT
 HOST-SUFFIX, apple.com, DIRECT
 HOST-KEYWORD, bimiacg, DIRECT
+#炒股app
+HOST-KEYWORD, xueqiu.com, DIRECT
+HOST-KEYWORD, 10jqka, DIRECT
