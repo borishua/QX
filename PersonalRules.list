@@ -185,7 +185,7 @@ HOST-SUFFIX, nfmovies.com, DIRECT
 HOST-SUFFIX, apple.com, DIRECT
 HOST-KEYWORD, bimiacg, DIRECT
 #炒股app
-HOST-SUFFIX, xueqiu.com, DIRECT
+;HOST-SUFFIX, xueqiu.com, DIRECT
 HOST-KEYWORD, 10jqka, DIRECT
 ip-cidr, 47.75.231.220/32, DIRECT
 ip-cidr, 47.89.2.206/32, DIRECT
