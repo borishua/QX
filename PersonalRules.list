@@ -184,7 +184,7 @@ HOST-SUFFIX, qianoo.cn, DIRECT
 HOST-SUFFIX, nfmovies.com, DIRECT
 HOST-SUFFIX, apple.com, DIRECT
 HOST-KEYWORD, bimiacg, DIRECT
-#炒股app
+# 炒股app
 ;HOST-SUFFIX, xueqiu.com, DIRECT
 HOST-KEYWORD, 10jqka, DIRECT
 ip-cidr, 47.75.231.220/32, DIRECT
@@ -192,3 +192,5 @@ ip-cidr, 47.89.2.206/32, DIRECT
 HOST-SUFFIX, 10jqka.com.cn, DIRECT
 HOST-SUFFIX, touzime.net, DIRECT
 HOST-SUFFIX, thsi.cn, DIRECT
+# 阿川ai
+host-suffix, achuanai.com, 海外服务
