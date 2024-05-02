@@ -194,3 +194,8 @@ HOST-SUFFIX, touzime.net, DIRECT
 HOST-SUFFIX, thsi.cn, DIRECT
 # 阿川ai
 host-suffix, achuanai.com, 海外服务
+# 智能家居
+host-suffix, vaillant.com.cn, DIRECT
+host-suffix, vaillant.com, DIRECT
+host-suffix, iotwish.com, DIRECT
+
