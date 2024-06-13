@@ -198,4 +198,8 @@ host-suffix, achuanai.com, 海外服务
 host-suffix, vaillant.com.cn, DIRECT
 host-suffix, vaillant.com, DIRECT
 host-suffix, iotwish.com, DIRECT
-
+# 剑网3
+host-suffix, xgsdk.com, DIRECT
+host-suffix, seasungame.com, DIRECT
+host-suffix, testplus.cn, DIRECT
+host-suffix, xoyo.com, DIRECT
