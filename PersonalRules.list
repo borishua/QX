@@ -1,5 +1,4 @@
 # 分流规则，自用补充调整
-
 # 银行
 host-suffix, pbcdci.cn, direct
 host-suffix, 95599.cn, direct
@@ -82,6 +81,20 @@ host-suffix, xflash.cc, 海外服务
 host-suffix, bpjc.xyz, 海外服务
 host-suffix, welink345.com, 海外服务
 host-suffix, publicss.cc, 海外服务
+# B
+host-suffix, pangle.io, 海外服务
+host-suffix, mopub.com, 海外服务
+host-suffix, appsflyer.com, 海外服务
+host-suffix, applovin.com, 海外服务
+host-suffix, blued.com, 海外服务
+;host-suffix, autonavi.com, 海外服务
+host-suffix, autonavi.com, 大陆服务
+host-suffix, amap.com, 大陆服务
+host-suffix, irisgw.com, 海外服务
+;host-suffix, doubleclick.net, 海外服务
+host-suffix, blued.cn, 大陆服务
+host, blued.irisdt.cn, 大陆服务
+host, argo.blued.cn, 大陆服务
 # 定位导航
 USER-AGENT, maps*, DIRECT
 # SimBox
