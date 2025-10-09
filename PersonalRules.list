@@ -29,6 +29,10 @@ host, resolver.dingtalk.com, direct
 host-suffix, zego.im, direct
 host, att.fengimg.com, direct
 host, api.revenuecat.com, direct
+# aqara
+host-suffix, ankasa.cn, direct
+host-suffix, aqara.cn, direct
+host-suffix, aqara.com, direct
 # 51万年历
 host-suffix, 51wnl-cq.com, direct
 host-suffix, 51wnl.com, direct
