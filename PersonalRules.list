@@ -220,3 +220,7 @@ host-suffix, xgsdk.com, DIRECT
 host-suffix, seasungame.com, DIRECT
 host-suffix, testplus.cn, DIRECT
 host-suffix, xoyo.com, DIRECT
+# 多卡宝 simbox
+host-suffix, ucloudlink.com, direct
+host-suffix, umeng.com, direct
+host, ios.bugly.qq.com, direct
